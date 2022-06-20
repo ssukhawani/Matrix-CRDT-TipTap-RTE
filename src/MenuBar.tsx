@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/role-supports-aria-props */
 import { Button } from "@primer/react";
 
 export const MenuBar = ({ editor }: any) => {
